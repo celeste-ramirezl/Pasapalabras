@@ -30,7 +30,7 @@ body{
 #pantalla-juego{
     display: none;
 }
-/*confihuración del contenedor*/
+/*configuración del contenedor*/
 .container {
     position: relative;
     width: 250px;
@@ -43,7 +43,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-/*pata el cronometro*/
+/*para el cronometro*/
 .container #tiempo{
     font-size: 50px;
     font-weight: bold;
